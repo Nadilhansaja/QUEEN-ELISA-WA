@@ -47,7 +47,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   AUTO_REACT: true,
   ONLY_PM_GROUP_MSG_SEND: true,// you want WORK_MODE message send
   AUTO_SEEN_STATUS: true,
-  BOT_OFFLINE: false,// Bot online status
+  BOT_OFFLINE: true,// Bot online status
   READ_MESSAGE: false,
   ANTI_MSG_SPAM: false,
   ANTI_BAD_WORD: false,
