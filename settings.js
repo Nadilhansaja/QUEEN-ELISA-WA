@@ -6,7 +6,7 @@ OWNER: @darkmakerofc | @MR-NIMA-X
 */
 
 module.exports = {
-  SESSION_ID: process.env.SESSION_ID || '',
+  SESSION_ID: process.env.SESSION_ID || 'QUEENELISA;;;==QUoJEcLpUTlt2XRBVWvFVLW90TXFGOBhnMFh2RfJHSYZXT2VHV3EnWCpWSjI1bUZ1QwQGOpwd=45920271749',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name I am Alive Now !*
 
@@ -23,7 +23,8 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: process.env.MONGODB_URL|| '',
+  MONGODB_URL: process.env.MONGODB_URL|| 'mongodb+srv://Mrnadil:Nadilh123@cluster0.xeoon1y.mongodb.net/
+',
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: process.env.PORT || 3000,
@@ -31,7 +32,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   OWNER_NAME: 'MrNima',
   OWNER_NUMBER: '94715166712',
   SUDO: '94715166712',
-  WORK_TYPE: 'private', // ex: public/private
+  WORK_TYPE: 'public', // ex: public/private
   WORK_MODE: 'all', // ex: all/only_groups/only_pm
   TIME_ZONE: 'Asia/Colombo',
   CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ\nmr-nima.vercell.app',
@@ -41,7 +42,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   MAXIMUM_FILESIZE: 90, //size in MB
   OWNER_R_EMOJI: '💻',
   ALIVE_AS_GIF: false,//this only work for short videos
-  AUTO_VOICE: true,
+  AUTO_VOICE: false,
   INBOX_BLOCK: false,
   OWNER_REACT: true,
   AUTO_REACT: true,
